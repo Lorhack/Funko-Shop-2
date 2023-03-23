@@ -1,0 +1,31 @@
+*,
+*::before,
+*::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+a{
+    text-decoration: none;
+    font-size: 2em;
+    color: #1111;
+}
+
+ul, ol{
+    list-style: none;
+}
+
+p{
+    font-size: 1.8em;
+}
+
+
+
